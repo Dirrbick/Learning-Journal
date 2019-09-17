@@ -14,22 +14,7 @@ To me _Growth Mindset_ is about always being open to new learning oppurtunities.
 1. Keep reminding myself of the workout method.
     - The strongest man in the world was once a twig.
 2. Nothing is "Too Hard".
-    - Everything is a **New Challenge**
-3. There is no such thing as a mistake
+    - Everything is a New Challenge
+3. There is no such thing as a mistake.
     -The lightbulb wasn't invented on the first try.
 ```
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dirrbick/Starter-Site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
