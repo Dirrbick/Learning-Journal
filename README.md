@@ -1,6 +1,6 @@
 ## Welcome to the Intro to my Web Development!
 
-Hello! My name is Kory Jackson, I have been married for almost 4 years to my beautiful bride. We have 2 fur babies, a cat and dog. I have been a Professional Chef for the past 2 years and Cooking for 14 total years. Web developement has been an interest of mine for some time but I always felt I wouldn't be smart enough to do it. I'm going through this class to prove to myself I can do anything that I set my mind to. You can check out my Github [here](https://github.com/Dirrbick).
+Hello! My name is Kory Jackson, I have been married for almost 4 years to my beautiful bride. We have 2 fur babies, a cat and dog. I have been a Professional Chef for the past 2 years and Cooking for 14 total years. Web developement has been an interest of mine for some time but I always felt I wouldn't be smart enough to do it. I'm going through this class to prove to myself I can do anything that I set my mind to. You can check out my Github [here](https://github.com/Dirrbick "Kory's Github Site").
 
 ---
 
@@ -11,8 +11,6 @@ To me _Growth Mindset_ is about always being open to new learning oppurtunities.
 
 
 ```
-`<action="/html/tags/html_form_tag_action.cfm" method="post">
-<textarea name="comments" id="comments" style="width:93%;height:150px;padding:2%;font-size:1.2em;border:10px solid #6DB72C;">`
 3 reminders on Growth Mindset
 
 1. Keep reminding myself of the workout method.
