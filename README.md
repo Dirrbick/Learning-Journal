@@ -11,6 +11,8 @@ To me _Growth Mindset_ is about always being open to new learning oppurtunities.
 
 
 ```
+<action="/html/tags/html_form_tag_action.cfm" method="post">
+<textarea name="mindset" id="mindset" style="width:93%;height:150px;padding:2%;font-size:1.2em;border:10px solid #6DB72C;">
 3 reminders on Growth Mindset
 
 1. Keep reminding myself of the workout method.
