@@ -23,3 +23,12 @@ To me _Growth Mindset_ is about always being open to new learning oppurtunities.
 
 #### Leaning Journal
 I plan to take this learning journal with me and use it throughout my career. It is going to be the foundation for all of my future success!
+
+
+## Day 2 of Code 102!
+
+While working in the terminal I learned a few things.
+
+1. The terminal is case sensitive.
+          When I typed ls $shell, it did not do anything, but when I typed ls $SHELL it ran /bin/bash
+1. 
