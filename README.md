@@ -34,4 +34,4 @@ While working in the terminal I learned a few things.
 
 1. The terminal is case sensitive.
           When I typed ls $shell, it did not do anything, but when I typed ls $SHELL it ran /bin/bash
-1. 
+1. I learned that when you type man ls, it gives you a list of options for that command line.
