@@ -35,3 +35,11 @@ While working in the terminal I learned a few things.
 1. The terminal is case sensitive.
           When I typed ls $shell, it did not do anything, but when I typed ls $SHELL it ran /bin/bash
 1. I learned that when you type man ls, it gives you a list of options for that command line.
+1. The terminal is fixed with tab completion, it is like a smart text.
+1. Working with the files options doesn't do much for my computer at the moment. Once I start getting more info on my laptop I will be able to work with the Files section.
+
+### Basic Text Editor v.s. IDE
+
+ | Basic Text Editor | IDE |
+ | --- | --- |
+ |Slim and fast 
