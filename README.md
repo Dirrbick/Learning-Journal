@@ -21,7 +21,7 @@ To me _Growth Mindset_ is about always being open to new learning oppurtunities.
 2. Nothing is "Too Hard".
      - Everything is a New Challenge
 3. There is no such thing as a mistake.
-     -The lightbulb wasn't invented on the first try.
+     - The lightbulb wasn't invented on the first try.
 
 
 #### Leaning Journal
