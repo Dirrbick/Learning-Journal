@@ -41,7 +41,7 @@ While working in the terminal I learned a few things.
 
 ### Basic Text Editor v.s. IDE
 
-        I learned that the difference between all the editors is that they are all different tools for a specific job. Most people stick with just one editor for all jobs when it would be more efficient to learn how to use multiple editors. It is like a Chef having a knife bag. There are many different knives for different jobs. I wouldn't use a filet knife to break down a ribeye. I could use it but it would take a lot longer than using the proper knife.
+   - I learned that the difference between all the editors is that they are all different tools for a specific job. Most people stick with just one editor for all jobs when it would be more efficient to learn how to use multiple editors. It is like a Chef having a knife bag. There are many different knives for different jobs. I wouldn't use a filet knife to break down a ribeye. I could use it but it would take a lot longer than using the proper knife.
 
  | Basic Text Editor | IDE |
  | --- | --- |
