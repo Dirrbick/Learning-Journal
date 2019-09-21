@@ -24,5 +24,20 @@
 		- Modified: File has been changed but not committed to the database
     - Staged: Flagged a file's changed version to be committed in the next snapshot
 
+#### A-C-P
+
+Steps
+| 1 | cd projects | changes you to projects directory |
+| 2 | ls -la | shows list of files in projects |
+| 3 | git clone "link" | clones web link to file |
+| 4 | ls -la | lists files |
+| 5 | cd _file_ | _file_ is the file you want to be working in |
+| 6 | ls -la | shows list of your master git directory |
+| 7 | code . | opens all files into VSCode for edit |
+| 8 | git status | lists files that were changed |
+| 9 | git add . | adds all changed files to master git file |
+| 10 | git commit -m "" | write a commmit message |
+| 11 | git push origin master | pushes the file to the cloud |
+
 
 [Home](README.md)
