@@ -23,7 +23,7 @@
      - The lightbulb wasn't invented on the first try.
 
 
-#### Leaning Journal
+#### Learning Journal
 I plan to take this learning journal with me and use it throughout my career. It is going to be the foundation for all of my future success!
 
 
