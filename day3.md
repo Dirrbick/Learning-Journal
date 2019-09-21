@@ -26,7 +26,8 @@
 
 #### A-C-P
 
-Steps
+|Steps| Command | Effect |
+| --- | --- | --- |
 | 1 | cd projects | changes you to projects directory |
 | 2 | ls -la | shows list of files in projects |
 | 3 | git clone "link" | clones web link to file |
