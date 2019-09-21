@@ -18,3 +18,6 @@ While working in the terminal I learned a few things.
  | Slim and fast | Powerful |
  | Has all Basic needs | Has a lot of features |
  | Used for smaller projects | Used on jobs with large CodeBase |
+
+
+ [Home](README.md)

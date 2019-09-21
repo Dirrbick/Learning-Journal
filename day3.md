@@ -9,7 +9,7 @@
 		    - Gives administrators more control over the divvying process
 	- DVCS: Distributed Version Control Systems
 		    - Allows you to create mirrored repos. 
-			      - A back-up that can easily replace any lost information on a server.
+			- A back-up that can easily replace any lost information on a server.
 		    - You can create multiple mirrored repos, allowing for multiple people to work on a joint project.
 
 ### What is Git?!?! Finally…
@@ -24,3 +24,5 @@
 		- Modified: File has been changed but not committed to the database
     - Staged: Flagged a file's changed version to be committed in the next snapshot
 
+
+[Home](README.md)
