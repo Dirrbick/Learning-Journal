@@ -32,11 +32,11 @@ I plan to take this learning journal with me and use it throughout my career. It
 While working in the terminal I learned a few things.
 
 1. The terminal is case sensitive.
-        When I typed ls $shell, it did not do anything, but when I typed ls $SHELL it ran /bin/bash
+       - When I typed ls $shell, it did not do anything, but when I typed ls $SHELL it ran /bin/bash
 1. I learned that when you type man ls, it gives you a list of options for that command line.
 1. The terminal is fixed with tab completion, it is like a smart text.
 1. Working with the files options doesn't do much for my computer at the moment. 
-        Once I start getting more info on my laptop I will be able to work with the Files section.
+       - Once I start getting more info on my laptop I will be able to work with the Files section.
 
 ### Basic Text Editor v.s. IDE
 
@@ -47,4 +47,30 @@ While working in the terminal I learned a few things.
  | Slim and fast | Powerful |
  | Has all Basic needs | Has a lot of features |
  | Used for smaller projects | Used on jobs with large CodeBase |
+ 
+### Version Control
+   - VCS: Local Version control systems
+        - One database that stores changes to files
+	 - CVCS: Cetralized Version Control
+        - Collaboration within a team on a single file or set of files
+	      - Single server storing all changes and file versions
+		    - Can be accessed by different clients
+		    - Allows more knowledge of team activities with certain files
+		    - Gives administrators more control over the divvying process
+	- DVCS: Distributed Version Control Systems
+		    - Allows you to create mirrored repos. 
+			      - A back-up that can easily replace any lost information on a server.
+		    - You can create multiple mirrored repos, allowing for multiple people to work on a joint project.
+
+### What is Git?!?! Finally…
+1. Snapshots
+		- A DVCS that stores data in a file system made up of snapshots
+		- Everytime you save/commit a changed version of your project, it creates a snapshot of the file and stores a reference to it
+1. Local Operations
+		- Git relies on local operations, making it so you can do a project offline.
+1. Tracking Changes
+1. States of Git
+		- Comitted: Data is securely stored in a local database
+		- Modified: File has been changed but not committed to the database
+    - Staged: Flagged a file's changed version to be committed in the next snapshot
 
