@@ -40,5 +40,8 @@
 | 10 | git commit -m "" | write a commmit message |
 | 11 | git push origin master | pushes the file to the cloud |
 
+Learned some pretty cool stuff today!!
+
+
 
 [Home](README.md)
