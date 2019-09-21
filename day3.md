@@ -42,6 +42,7 @@
 
 Learned some pretty cool stuff today!!
 
+I look forward to using all of the tools available!!
 
 
 [Home](README.md)
