@@ -1,5 +1,5 @@
 # Day 4 of 102!!
-<p>I plan to get into html and learn as much as I can about the different styles of writing code
+<p> I plan to get into html and learn as much as I can about the different styles of writing code
 
 ## Structure For Websites
 - When writing a website, there needs to be a stucture so that the reader doesn't get confused.
@@ -23,7 +23,7 @@
 
 ## Process & Design
 
-<p>One of the main things you need to keep your eye on when writing a website, is that you are not writing it for you but for a certain "target" audience. If it doesn't appeal to those people, then they will not use it.
+<p> One of the main things you need to keep your eye on when writing a website, is that you are not writing it for you but for a certain "target" audience. If it doesn't appeal to those people, then they will not use it.
 
 ## Lecture
 
