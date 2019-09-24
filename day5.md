@@ -8,3 +8,5 @@
 3. One of the sites to get your color from is Adobe Color.
     - You can have any color you want, as long as you type #xxxxxx
 4. Got to create a color scheme for my website
+
+    [Home](README.md)

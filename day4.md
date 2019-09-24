@@ -40,3 +40,5 @@
     - How to adopt
         - What they will need
     - Figure out rescue name/logo
+
+    [Home](README.md)
